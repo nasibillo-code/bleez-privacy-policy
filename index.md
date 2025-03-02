@@ -43,7 +43,7 @@ To ensure clarity throughout this document, we define the following terms:
 - Emergency contacts (optional)
 
 #### 2.1.2 Communications Content
-- Text messages
+- Text messages (encrypted, not actual)
 - Voice messages
 - Images and videos
 - Documents
@@ -52,7 +52,6 @@ To ensure clarity throughout this document, we define the following terms:
 - Group chat names and descriptions
 
 #### 2.1.3 Contact Information
-- Address book contacts (with your permission)
 - Manually added contacts
 - Blocked contacts list
 
